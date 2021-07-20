@@ -1,0 +1,86 @@
+{
+  "id": "2478074",
+  "name": "demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1667280",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "18272210",
+      "name": "收藏",
+      "font_class": "shoucang1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "2118492",
+      "name": "加关注(人)",
+      "font_class": "jiaguanzhuren",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "2118508",
+      "name": "已关注(人)",
+      "font_class": "yiguanzhuren",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "6638072",
+      "name": "关注选中",
+      "font_class": "guanzhuxuanzhong",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "6638073",
+      "name": "关注未选中",
+      "font_class": "guanzhuweixuanzhong",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "9974409",
+      "name": "关注-未关注",
+      "font_class": "guanzhu-weiguanzhu",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "9974412",
+      "name": "关注-已关注",
+      "font_class": "guanzhu-yiguanzhu",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "15346595",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "17402936",
+      "name": "我的关注 ",
+      "font_class": "wodeguanzhu",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "19684655",
+      "name": "点赞",
+      "font_class": "like-fill",
+      "unicode": "eb54",
+      "unicode_decimal": 60244
+    }
+  ]
+}
