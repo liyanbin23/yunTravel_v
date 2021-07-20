@@ -177,12 +177,12 @@ export default {
                             title: "新闻管理"
                         }
                     ]
+                },
+                {
+                    icon: "el-icon-pie-chart",
+                    index: "charts",
+                    title: "schart图表"
                 }
-                // {
-                //     icon: "el-icon-pie-chart",
-                //     index: "charts",
-                //     title: "schart图表"
-                // }
             ]
         };
     },
