@@ -23,3 +23,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 旅游网站前端 使用vue3.x
+
+![image](https://user-images.githubusercontent.com/67175143/126266625-1cd84b8d-5c51-4287-9fef-a95d06b1fee7.png)
